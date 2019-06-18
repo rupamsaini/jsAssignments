@@ -1,5 +1,5 @@
 
-const days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday']
+const days = ['Mondayy', 'Tuesday', 'Wednesday', 'Thursday']
 console.log('Starting from start')
 for(let i = 0; i < days.length; i++){
 
