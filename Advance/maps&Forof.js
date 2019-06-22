@@ -31,6 +31,7 @@ mappy.set('c1', obj2)
 console.log('Size of the map: '+mappy.size)
 console.log(mappy.get('c1'))
 
+//for-of example in maps
 // for( const [key, value] of mappy.entries()){
 //     console.log(key +' = '+ value.name)
 // }
