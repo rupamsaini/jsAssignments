@@ -1,0 +1,9 @@
+features
+- textbox to add todo
+- searchbox with suggestions
+- sorting by date and time
+- three buttons (add, delete and delete all, calender, reminder)
+- three tags ( in-process, completed, pending)
+- priority
+
+
